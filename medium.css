@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 80%;
+    margin: 50px auto;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container > section {
+    margin: 10px;
+    padding: 20px;
+    width: 23%;
+    text-align: center;
+    border: 2px black solid;
+    background-color: lightgrey;
+}
+
+.items {
+    height: 250px
+}
+
+.title {
+    font-size: 14px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 100px;
+}

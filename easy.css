@@ -1,0 +1,10 @@
+.blue {
+    background-color: lightblue;
+    width: 100%;
+    height: calc(450px / 13);
+}
+ .green {
+     background-color: lightgreen;
+     width: 100%;
+     height: calc(450px / 13);
+ }
